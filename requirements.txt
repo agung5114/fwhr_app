@@ -1,0 +1,5 @@
+streamlit
+pillow 
+matplotlib
+dlib
+face_recognition
